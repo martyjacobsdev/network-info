@@ -34,3 +34,5 @@ https://www.npmjs.com/package/network-info
 
 Thank you for choosing this module - currently taking pull requests for improvements. If you like the template, don't forget to leave a star! Happy coding
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
