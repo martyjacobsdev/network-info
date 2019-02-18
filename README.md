@@ -15,6 +15,15 @@ var network = require('network-info');
 network.displayNetworkInfo();
 
 //prints network info to console
+
+//Network information...
+
+//Network type: _____
+//Local IP: _____
+//IP Version: _____
+//Mac address v6: _____
+//Subnet Mask: _____
+
 ```
 
 
