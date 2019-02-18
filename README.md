@@ -29,7 +29,8 @@ network.displayNetworkInfo();
 
 Module homepage: 
 https://www.npmjs.com/package/network-info
-
+<br>
+<br>
 <h2>Thank you!</h2>
 
 Thank you for choosing this module - currently taking pull requests for improvements. If you like the template, don't forget to leave a star! Happy coding
