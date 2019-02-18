@@ -14,7 +14,10 @@ var network = require('network-info');
 
 network.displayNetworkInfo();
 
-//prints tcp/ip to console
+//prints network info to console
 ```
 
+<h3>Thank you!</h3>
+
+Thank you for choosing this module - currently taking pull requests for improvements. If you like the template, don't forget to leave a star! Happy coding
 
