@@ -1,0 +1,27 @@
+{
+  "name": "network-info",
+  "version": "1.0.0",
+  "description": "Displays the Network Configuration of a running host machine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majikarp/network-info.git"
+  },
+  "keywords": [
+    "tcp",
+    "ip",
+    "network",
+    "subnet",
+    "internet",
+    "host"
+  ],
+  "author": "Marty Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majikarp/network-info/issues"
+  },
+  "homepage": "https://github.com/majikarp/network-info#readme"
+}
