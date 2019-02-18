@@ -1,7 +1,7 @@
 {
   "name": "network-info",
-  "version": "1.0.0",
-  "description": "Displays the Network Configuration of a running host machine.",
+  "version": "2.0.0",
+  "description": "Displays TCP/IP Network Configuration values of host machine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
